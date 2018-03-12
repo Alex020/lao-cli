@@ -16,6 +16,7 @@
   "license": "MIT",
   "private": true,
   "scripts": {
+    "test": "node scripts/test.js"
   },
   "dependencies": {},
   "devDependencies": {
